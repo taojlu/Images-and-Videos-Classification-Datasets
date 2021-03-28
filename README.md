@@ -30,7 +30,7 @@ table th:first-of-type {
 </style>
 |Year | Journal | DataSets | Numbers | Classes| Type of Task| SOTA | Homepage | Publication |
 |:---:|:-------:|:---------|:-------:|:------:|:------------|:-----|:---------|:------------|
-&nbsp; &nbsp; <br>2004<br> &nbsp; &nbsp; <br>ICPR<br> &nbsp; &nbsp; <br>KTH<br> &nbsp; &nbsp; <br>600<br> &nbsp; &nbsp; <br>6 <br> &nbsp; &nbsp; <br>human action<br> &nbsp; &nbsp; <br>SVM <br> &nbsp; &nbsp; <br>[Recognition of human actions](https://www.csc.kth.se/cvap/actions/)<br> &nbsp; &nbsp; <br>--- <br>
+&nbsp; &nbsp; <br>2004<br> | &nbsp; &nbsp; <br>ICPR<br> | &nbsp; &nbsp; <br>KTH<br> | &nbsp; &nbsp; <br>600<br> &nbsp; &nbsp; <br>6 <br> &nbsp; &nbsp; <br>human action<br> &nbsp; &nbsp; <br>SVM <br> &nbsp; &nbsp; <br>[Recognition of human actions](https://www.csc.kth.se/cvap/actions/)<br> &nbsp; &nbsp; <br>--- <br>
 2004 |	ICPR   | KTH	  |600	    |6       |human action |SVM   | [Recognition of human actions](https://www.csc.kth.se/cvap/actions/) | --- |
 2005 |	ICCV   |Weizmann  |81	    |9       |human action |	  |[Actions as Space-Time Shapes](http://www.wisdom.weizmann.ac.il/~vision/SpaceTimeActions.html) | [Actions as Space-Time Shapes](http://www.wisdom.weizmann.ac.il/~vision/VideoAnalysis/Demos/SpaceTimeActions/SpaceTimeActions_pami07.pdf) |
 2007 |	       |Kodak	  |1358     |	25   |	           |	  |[Kodak's consumer video benchmark data set](https://www.ee.columbia.edu/ln/dvmm/consumervideo/) |	[Kodak consumer video benchmark data set: concept definition and annotation ]() |
