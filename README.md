@@ -7,18 +7,13 @@ Videos classification datasets and papers.
 &nbsp; 
 &nbsp;  
 ###  Part One: ImageNet papers
-Year | Journal | DataSets | Numbers | Classes| Type of Task|  Homepage | Publication |
-:----|--------:|---------:|--------:|-------:|------------:|-----:|---------:|:------------:
-2009 |  CVPR   |    |   | | |  |  [IMAGENET](http://image-net.org/) | [ ImageNet: A Large-Scale Hierarchical Image Database](http://image-net.org/static_files/papers/imagenet_cvpr09.pdf)|
-
-
-								
-	Year	DataSets	Videos	Calsses	Type of Task	SOTA	Websites	Publication
-CVPR	2009	ImageNet					http://image-net.org/	 ImageNet: A Large-Scale Hierarchical Image Database
- AAAI 	2012	ImageNet					http://image-net.org/	Crowdsourcing Annotations for Visual Object Detection
-ICCV	2013	ImageNet					http://image-net.org/	Detecting avocados to zucchinis: what have we done, and where are we going?
-AMC(CHI)	2014	ImageNet					http://image-net.org/	Scalable multi-label annotation
-IJCV	2015	ImageNet					http://image-net.org/	ImageNet Large Scale Visual Recognition Challenge
+|Year | Journal |                    DataSets                     | Numbers | Classes| Type of Task|             Publication      |
+|:---:|:--------|:------------------------------------------------|:--------|:-------|:------------|:-----------------------------|
+|2009 |  CVPR   |    [ImageNet](http://image-net.org/)            |         |        |             | [ ImageNet: A Large-Scale Hierarchical Image Database](http://image-net.org/static_files/papers/imagenet_cvpr09.pdf)|
+|2012 |	AAAI	|    [ImageNet](http://image-net.org/)    	  |         |        |             | [Crowdsourcing Annotations for Visual Object Detection] |
+| 2013|	ICCV	|    [ImageNet](http://image-net.org/)    	  |         |        |             | [Detecting avocados to zucchinis: what have we done, and where are we going?](https://ai.stanford.edu/~olga/papers/iccv13-ILSVRCanalysis.pdf) |
+|2014 |	AMC(CHI)|    [ImageNet](http://image-net.org/)    	  |         |        |             | [Scalable multi-label annotation](https://ai.stanford.edu/~olga/papers/chi2014-MultiLabel.pdf) |
+|2015 |	IJCV	|    [ImageNet](http://image-net.org/)    	  |         |        |             | [ImageNet Large Scale Visual Recognition Challenge](http://link.springer.com/article/10.1007/s11263-015-0816-y?sa_campaign=email/event/articleAuthor/onlineFirst) |
 
 
 
@@ -52,7 +47,7 @@ IJCV	2015	ImageNet					http://image-net.org/	ImageNet Large Scale Visual Recogni
 | 2020 |         | [HAA500](https://www.cse.ust.hk/haa/)  | 591k  frames | 500 |                          | [HAA500: Human-Centric Atomic Action Dataset with Curated Videos](https://arxiv.org/abs/2009.05224)   |
 | 2020 |         | [RareAct](https://github.com/antoine77340/RareAct)   | 905  | 122 |             | [RareAct: A video dataset of unusual interactions](https://arxiv.org/abs/2008.01018)   |
 | 2020 | NeurIPS | [AViD](https://github.com/piergiaj/AViD )  | 476,000 | 887 |              | [AViD Dataset: Anonymized Videos from Diverse Countries](https://arxiv.org/pdf/2007.05515.pdf)   |
-| 2020 | ACCV    | [Condensed Movies](https://www.robots.ox.ac.uk/~vgg/research/condensed-movies/)  | 3,605       |     | [Condensed Movies: Story Based Retrieval with Contextual Embeddings](https://arxiv.org/pdf/2005.04208.pdf)     |
+| 2020 | ACCV    | [Condensed Movies](https://www.robots.ox.ac.uk/~vgg/research/condensed-movies/)  | 3,605  |    |    | [Condensed Movies: Story Based Retrieval with Contextual Embeddings](https://arxiv.org/pdf/2005.04208.pdf)     |
 | 2020 | CVPR    | [FineGym]( https://sdolivia.github.io/FineGym/) | 6,000+   | 530 |            | [FineGym: A Hierarchical Video Dataset for Fine-grained Action Understanding](https://arxiv.org/abs/2004.06704)           |
 | 2020 |         | [ARID Dataset](https://xuyu0010.github.io/arid)   | 3,780    | 11 |                     | [ARID: A New Dataset for Recognizing Action in the Dark](https://arxiv.org/pdf/2006.03876.pdf)   |
 | 2020 |         | [AVA-Kinetics](https://research.google.com/ava/index.html )          | 230,000     | 80  |                    | [The AVA-Kinetics Localized Human Actions Video Dataset](https://arxiv.org/abs/2005.00214)                                |
