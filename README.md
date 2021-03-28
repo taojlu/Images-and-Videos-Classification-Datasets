@@ -23,11 +23,6 @@ IJCV	2015	ImageNet					http://image-net.org/	ImageNet Large Scale Visual Recogni
 &nbsp; 
 &nbsp;  
 ###  Part One: Videos papers
-<style>
-table th:first-of-type {
-	width: 150px;
-}
-</style>
 |Year | Journal | DataSets | Numbers | Classes| Type of Task| SOTA | Homepage | Publication |
 |:---:|:-------:|:---------|:-------:|:------:|:------------|:-----|:---------|:------------|
 2004 |	ICPR   | KTH	  |600	    |6       |human action |&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;SVM   | [Recognition of human actions](https://www.csc.kth.se/cvap/actions/) | --- |
