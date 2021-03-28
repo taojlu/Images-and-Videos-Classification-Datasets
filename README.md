@@ -5,7 +5,7 @@ Videos classification datasets and papers.
 &nbsp; 
 &nbsp;  
 ###  Part One: ImageNet papers
-Year | Journal | DataSets | Numbers | Classes| Type of Task| SOTA | Homepage | Publication |
+Year | Journal | DataSets | Numbers | Classes| Type of Task|  Homepage | Publication |
 :----|--------:|---------:|--------:|-------:|------------:|-----:|---------:|:------------:
 2009 |  CVPR   |    |   | | |  |  [IMAGENET](http://image-net.org/) | [ ImageNet: A Large-Scale Hierarchical Image Database](http://image-net.org/static_files/papers/imagenet_cvpr09.pdf)|
 
@@ -23,19 +23,16 @@ IJCV	2015	ImageNet					http://image-net.org/	ImageNet Large Scale Visual Recogni
 &nbsp; 
 &nbsp;  
 ###  Part One: Videos papers
-|Year | Journal |                    DataSets                     | Numbers | Classes| Type of Task|         SOTA     |        Publication      |
-|:---:|:-------:|:------------------------------------------------|:-------:|:------:|:------------|:-----------------|:------------------------|
-2004 |	ICPR   | [KTH](https://www.csc.kth.se/cvap/actions/)	  |600	    |6       |human action |SVM               | --- |
-2005 |	ICCV   |[Weizmann](http://www.wisdom.weizmann.ac.il/~vision/SpaceTimeActions.html)  |81	    |9       |human action |   | [Actions as Space-Time Shapes](http://www.wisdom.weizmann.ac.il/~vision/VideoAnalysis/Demos/SpaceTimeActions/SpaceTimeActions_pami07.pdf) |
-2007 |	       | [Kodak](https://www.ee.columbia.edu/ln/dvmm/consumervideo/)	  |1358     |	25   |	           |	 |	[Kodak consumer video benchmark data set: concept definition and annotation ]() |
-2008 |	CVPR   |[Hollywood](https://www.di.ens.fr/~laptev/download.html)  |	430 |	8    |human action |   | [Learning realistic human actions from movies](http://www.irisa.fr/vista/Papers/2008_cvpr_laptev.pdf) |
-2009 |	CVPR   | [Hollywood2](https://www.di.ens.fr/~laptev/download.html) |1787     |	12   |human action |    | [Actions in Context](http://www.irisa.fr/vista/Papers/2009_cvpr_marszalek.pdf) |
-2010 |	ECCV   | [Olympic Sports](http://vision.stanford.edu/Datasets/OlympicSports/)|	800 |	16   |sports	   |    |	[Modeling Temporal Structure of Decomposable Motion Segments for Activity Classification](http://vision.stanford.edu/documents/NieblesChenFei-Fei_ECCV2010.pdf) |
-2011 |	ICCV   | [HMDB51](https://deepai.org/dataset/hmdb-51)		  |6766	    |51      |human motion |	  |  [HMDB: A Large Video Database for Human Motion Recognition](http://cbcl.mit.edu/publications/ps/Kuehne_etal_iccv11.pdf) |
-2011 |	ICMR   | [CCV](https://www.ee.columbia.edu/ln/dvmm/CCV/) 	  |9317     |20	     |		   |       | [Consumer Video Understanding: A Benchmark Database and An Evaluation of Human and Machine Performance](https://www.ee.columbia.edu/ln/dvmm/publications/11/icmr11-consumervideo.pdf) |
-2012 |	ICCV   | [UCF-101](https://www.crcv.ucf.edu/research/data-sets/ucf101/)	  |13320    |	101  |		   |	 | [UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild](https://www.ee.columbia.edu/ln/dvmm/publications/11/icmr11-consumervideo.pdf) |
-2014 |        |[THUMOS-2014](http://crcv.ucf.edu/THUMOS14/home.html) |18394    |	101  |		   |		|   |  |[Sports-1M]    | [Large-scale Video Classification with Convolutional Neural Networks](https://ieeexplore.ieee.org/document/6909619) |
-2014 |	CVPR  |[MPII Human Pose](http://human-pose.mpi-inf.mpg.de/) |20943|	410  |		   |	| [2D Human Pose Estimation: New Benchmark and State of the Art Analysis](https://ieeexplore.ieee.org/document/6909866) |
+|Year | Journal |                    DataSets                     | Numbers | Classes| Type of Task|             Publication      |
+|:---:|:-------:|:------------------------------------------------|:-------:|:------:|:------------|:-----------------------------|
+2004 |	ICPR   | [KTH](https://www.csc.kth.se/cvap/actions/)	  |600	    |6       |human action | --- |
+2005 |	ICCV   |[Weizmann](http://www.wisdom.weizmann.ac.il/~vision/SpaceTimeActions.html)  |81	    |9       |human action | [Actions as Space-Time Shapes](http://www.wisdom.weizmann.ac.il/~vision/VideoAnalysis/Demos/SpaceTimeActions/SpaceTimeActions_pami07.pdf) |
+2007 |	       | [Kodak](https://www.ee.columbia.edu/ln/dvmm/consumervideo/)	  |1358     |	25   |	           |		[Kodak consumer video benchmark data set: concept definition and annotation ]() |
+2008 |	CVPR   |[Hollywood](https://www.di.ens.fr/~laptev/download.html)  |	430 |	8    |human action |  [Learning realistic human actions from movies](http://www.irisa.fr/vista/Papers/2008_cvpr_laptev.pdf) |[Actions in Context](http://www.irisa.fr/vista/Papers/2009_cvpr_marszalek.pdf) |
+2010 |	ECCV   | [Olympic Sports](http://vision.stanford.edu/Datasets/OlympicSports/)|	800 |	16   |sports	   | 	[Modeling Temporal Structure of Decomposable Motion Segments for Activity Classification](http://vision.stanford.edu/documents/NieblesChenFei-Fei_ECCV2010.pdf) |  [HMDB: A Large Video Database for Human Motion Recognition](http://cbcl.mit.edu/publications/ps/Kuehne_etal_iccv11.pdf) | [Consumer Video Understanding: A Benchmark Database and An Evaluation of Human and Machine Performance](https://www.ee.columbia.edu/ln/dvmm/publications/11/icmr11-consumervideo.pdf) |
+2012 |	ICCV   | [UCF-101](https://www.crcv.ucf.edu/research/data-sets/ucf101/)	  |13320    |	101  |		 | [UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild](https://www.ee.columbia.edu/ln/dvmm/publications/11/icmr11-consumervideo.pdf) |
+2014 |        |[THUMOS-2014](http://crcv.ucf.edu/THUMOS14/home.html) |18394    |	101  |		   |		|    | [Large-scale Video Classification with Convolutional Neural Networks](https://ieeexplore.ieee.org/document/6909619) |
+2014 |	CVPR  |[MPII Human Pose](http://human-pose.mpi-inf.mpg.de/) |20943|	410  |			| [2D Human Pose Estimation: New Benchmark and State of the Art Analysis](https://ieeexplore.ieee.org/document/6909866) |
 2015 |	CVPR  |[ActivityNet](http://activity-net.org/)| 27901   |	203  |		   |	  | [ActivityNet: A Large-Scale Video Benchmark for Human Activity Understanding](https://ieeexplore.ieee.org/document/7298698) |
 | 2015 | ACM  | [EventNet]  | 95321   | 500    |               |         | http://eventnet.ee.columbia.edu/                   | EventNet: A Large Scale Structured Concept Library for Complex Event Detection in Video |
 | 2015 |      | FCVID     | 91223   | 239    |               | InceptionV3   | http://bigvid.fudan.edu.cn/FCVID/                  | FCVID : Fudan-Columbia Video Dataset                                                    |
