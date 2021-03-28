@@ -44,6 +44,20 @@ table th:first-of-type {
 2014 |	CVPR  |	Sports-1M |1133158  |	487  |		   |	  |[Sports-1M](https://cs.stanford.edu/people/karpathy/deepvideo/)      | [Large-scale Video Classification with Convolutional Neural Networks](https://ieeexplore.ieee.org/document/6909619) |
 2014 |	CVPR  |MPII Human Pose|20943|	410  |		   |	  |[MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/) | [2D Human Pose Estimation: New Benchmark and State of the Art Analysis](https://ieeexplore.ieee.org/document/6909866) |
 2015 |	CVPR  |ActivityNet| 27901   |	203  |		   |	  |[ACTIVITYNET](http://activity-net.org/) | [ActivityNet: A Large-Scale Video Benchmark for Human Activity Understanding](https://ieeexplore.ieee.org/document/7298698) |
+| 2015 | ACM   | EventNet                   | 95321   | 500  |               |                                          | http://eventnet.ee.columbia.edu/                   | EventNet: A Large Scale Structured Concept Library for Complex Event Detection in Video |
+| 2015 |       | FCVID                      | 91223   | 239  |               | InceptionV3                              | http://bigvid.fudan.edu.cn/FCVID/                  | FCVID : Fudan-Columbia Video Dataset                                                    |
+| 2016 |       | YouTube-8M(classification) | 8264650 | 4800 |               |                                          | https://research.google.com/youtube8m/index.html   | YouTube-8M: A Large-Scale Video Classification Benchmark                                |
+| 2017 |       | Kinetics                   | 650000  | 700  |  human action |                                          | https://deepmind.com/research/open-source/kinetics | A Short Note on the Kinetics-700-2020 Human Action Dataset                                |
+| 2018 | CVPR  | UCF-Crime Dataset          | 1900    | 13   |               |                                          | https://www.crcv.ucf.edu/projects/real-world/      | Real-world Anomaly Detection in Surveillance Videos                                     |
+| 2018 | CVPR  | ADHA                       | 11736   | 32   |               |                                          | https://www.mvig.org/research/adha/adha.html       | "Human Action Adverb Recognition: ADHA Dataset and A Three-Stream Hybrid Model          |
+| "    |
+| 2018 | ICCV  | THE 20BN-JESTER DATASET    | 148092  | 27   | hand gestures | RFEEN, Ford’s Gesture Recognition System | https://20bn.com/datasets/jester                   | "The Jester Dataset: A Large-Scale Video Dataset of Human Gestures                      |
+| "    |
+| 2019 | TPAMI | Moments in Time            | 903,964 | 339  |               |                                          | http://moments.csail.mit.edu/                      | Moments in Time Dataset: one million videos for event understanding                     |
+| 2019 | ICCV  | SVD                        | 500000  |      |               |                                          | https://svdbase.github.io/                         | SVD: A Large-Scale Short Video Dataset for Near-Duplicate Video Retrieval               |
+| 2019 |       | Out the Window             | 5668    | 17   |               |                                          | https://stresearch.github.io/otw/                  | Out the Window: A Crowd-Sourced Dataset for Activity Classification in Security Video   |
+| 2019 | CVPR  | COIN                       | 11,827  | 180  | comprehensive |                                          | https://coin-dataset.github.io/                    | COIN: A Large-scale Dataset for Comprehensive Instructional Video Analysis              |
+| 2019 | ICCV  | YouTube-8M(segmemt)        | 230K    | 1000 |               |                                          | https://research.google.com/youtube8m/index.html   |                                                                                         |
 
 
 
