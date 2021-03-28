@@ -34,6 +34,11 @@ Year | Journal | DataSets | Numbers | Classes| Type of Task| SOTA | Homepage | P
 2011 |	ICCV   |HMDB51	  |6766	    |51      |human motion |	  | [HMDB](https://deepai.org/dataset/hmdb-51)	| [HMDB: A Large Video Database for Human Motion Recognition](http://cbcl.mit.edu/publications/ps/Kuehne_etal_iccv11.pdf) |
 2011 |	ICMR   |CCV	  |9317     |20	     |		   |      |[CCV Database](https://www.ee.columbia.edu/ln/dvmm/CCV/) | [Consumer Video Understanding: A Benchmark Database and An Evaluation of Human and Machine Performance](https://www.ee.columbia.edu/ln/dvmm/publications/11/icmr11-consumervideo.pdf) |
 2012 |	ICCV   |UCF-101	  |13320    |	101  |		   |	  |[UCF101 – Action Recognition Data Set](https://www.crcv.ucf.edu/research/data-sets/ucf101/) | [UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild](https://www.ee.columbia.edu/ln/dvmm/publications/11/icmr11-consumervideo.pdf) |
+2014 |        |THUMOS-2014|18394    |	101  |		   |	  |[THUMOS Challenge 2014](http://crcv.ucf.edu/THUMOS14/home.html)	|   |
+2014 |	CVPR  |	Sports-1M |1133158  |	487  |		   |	  |[Sports-1M](https://cs.stanford.edu/people/karpathy/deepvideo/)      | [Large-scale Video Classification with Convolutional Neural Networks](https://ieeexplore.ieee.org/document/6909619) |
+2014 |	CVPR  |MPII Human Pose|20943|	410  |		   |	  |[MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/) | [2D Human Pose Estimation: New Benchmark and State of the Art Analysis](https://ieeexplore.ieee.org/document/6909866) |
+2015 |	CVPR  |ActivityNet| 27901   |	203  |		   |	  |[ACTIVITYNET](http://activity-net.org/) | [ActivityNet: A Large-Scale Video Benchmark for Human Activity Understanding](https://ieeexplore.ieee.org/document/7298698) |
+
 
 
 
