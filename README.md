@@ -1,5 +1,4 @@
-# Images and Videos-Classification-Datasets
-Images and Videos classification datasets and papers.
+## Images and Videos classification datasets and papers.
 
 
 
